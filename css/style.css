@@ -251,7 +251,7 @@ header h1 {
 .hero {
      display:grid;
      place-items: center;
-     background-image: url('/slider1@2x.png');
+     background-image: url('../img/slider1@2x.png');
      background-size: cover;
      background-position: center;
      text-align: center;
@@ -407,16 +407,16 @@ header h1 {
      min-height:12.5rem;
 }
 #img-item-blocs-services-briefcase{
-     background-image: url('/briefcase.svg');
+     background-image: url('../img/briefcase.svg');
 }
 #img-item-blocs-services-blog{
-     background-image: url('/star.svg');
+     background-image: url('../img/star.svg');
 }
 #img-item-blocs-services-sm{
-     background-image: url('/notes.svg');
+     background-image: url('../img/notes.svg');
 }
 #img-item-blocs-services-bolt{
-     background-image: url('/bolt.svg');
+     background-image: url('../img/bolt.svg');
 }
 
 .item-blocs-services p:first-of-type{
@@ -436,7 +436,7 @@ header h1 {
 
 .what-is-ubiquity{
      position: relative;
-     background-image: url('/bokehback@2x.png');
+     background-image: url('../img/bokehback@2x.png');
      background-size: cover;
      width:100%;   
      text-align: center;
@@ -515,22 +515,22 @@ header h1 {
      margin-bottom: 7.3rem;
 }
 #img-item-blocs-posts-1{
-     background-image: url('/annie-spratt-wgivdx9dBdQ-unsplash@2x.png');
+     background-image: url('../img/annie-spratt-wgivdx9dBdQ-unsplash@2x.png');
 }
 #img-item-blocs-posts-2{
-     background-image: url('/william-iven-SpVHcbuKi6E-unsplash@2x.png');
+     background-image: url('../img/william-iven-SpVHcbuKi6E-unsplash@2x.png');
 }
 #img-item-blocs-posts-3{
-     background-image: url('/green-chameleon-s9CC2SKySJM-unsplash@2x.png');
+     background-image: url('../img/green-chameleon-s9CC2SKySJM-unsplash@2x.png');
 }
 #img-item-blocs-posts-4{
-     background-image: url('/helloquence-5fNmWej4tAA-unsplash@2x.png');
+     background-image: url('../img/helloquence-5fNmWej4tAA-unsplash@2x.png');
 }
 #img-item-blocs-posts-5{
-     background-image: url('/lauren-mancke-aOC7TSLb1o8-unsplash@2x.png');
+     background-image: url('../img/lauren-mancke-aOC7TSLb1o8-unsplash@2x.png');
 }
 #img-item-blocs-posts-6{
-     background-image: url('/annie-spratt-wgivdx9dBdQ-unsplash@2x.png');
+     background-image: url('../img/annie-spratt-wgivdx9dBdQ-unsplash@2x.png');
 }
 .item-blocs-posts p:first-of-type{
      font-family: 'raleway', sans-serif;
@@ -565,7 +565,7 @@ header h1 {
      position:absolute;
      width:100%;
      height:100%;
-     background-image: url('/lauren-mancke-aOC7TSLb1o8-unsplash@2x.png');
+     background-image: url('../img/lauren-mancke-aOC7TSLb1o8-unsplash@2x.png');
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
@@ -604,7 +604,7 @@ header h1 {
 .profil{
      display:grid;
      place-items: center;
-     background-image: url('/rect@2x.png');
+     background-image: url('../img/rect@2x.png');
      background-repeat:no-repeat;
      background-position: center;
      background-size: cover;
@@ -631,7 +631,7 @@ header h1 {
      width: 22rem;
      height:22rem;
      border-radius:50%;
-     background-image:url('/Image1@2x.png');
+     background-image:url('../img/Image1@2x.png');
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
@@ -701,7 +701,7 @@ footer ul .column-tags h3{
 .item-arrow::before{
      content:"";
      position:absolute;
-     background-image: url('/angle-double-right.svg');
+     background-image: url('../img/angle-double-right.svg');
      background-position: center;
      background-repeat: no-repeat;
      background-size: content;
@@ -738,7 +738,7 @@ footer ul .column-tags h3{
 .adress::before{
      content:"";
      position:absolute;
-     background-image: url('//map-marker.svg');
+     background-image: url('../img//map-marker.svg');
      background-position: center;
      background-repeat: no-repeat;
      background-size: content;
@@ -751,7 +751,7 @@ footer ul .column-tags h3{
 .tel::before{
      content:"";
      position:absolute;
-     background-image: url('/phone.svg');
+     background-image: url('../img/phone.svg');
      background-position: center;
      background-repeat: no-repeat;
      background-size: content;
@@ -764,7 +764,7 @@ footer ul .column-tags h3{
 .mail::before{
      content:"";
      position:absolute;
-     background-image: url('/envelope.svg');
+     background-image: url('../img/envelope.svg');
      background-position: center;
      background-repeat: no-repeat;
      background-size: content;
